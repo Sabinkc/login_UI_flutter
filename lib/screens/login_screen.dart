@@ -23,7 +23,7 @@ class LoginScreen extends StatelessWidget {
               mainAxisAlignment: .center,
               children: [
                 Text(
-                  "Login here",
+                  "Signin here",
                   style: GoogleFonts.rubik(
                     textStyle: TextStyle(
                       fontWeight: .bold,
